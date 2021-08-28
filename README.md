@@ -35,3 +35,4 @@ coala supports popular programming languages including **Python**, **C/C++**, **
 .. |OpenHub| image:: http://www.openhub.net/p/coala/widgets/project_thin_badge.gif
    :target: https://www.openhub.net/p/coala
 
+testing
